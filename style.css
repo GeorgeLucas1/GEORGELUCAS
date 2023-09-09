@@ -1,0 +1,61 @@
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 24
+}
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 24
+}
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 24
+}
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 24
+}
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 24
+}
+
+*{
+  font-family: 'Poppins', sans-serif;
+}
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  border-radius: 20px;
+  background-color: rgb(19, 228, 19);
+}
+button:hover{
+  background-color: blue;
+}
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 24
+}
+body {
+  background-image: url('assets/stock-photo-creative-prismatic-background-polygonal-pattern.jpeg');
+  background-size: cover; /* Ajusta o tamanho da imagem para cobrir o corpo inteiro */
+  background-repeat: no-repeat; /* Evita repetição da imagem */
+}
